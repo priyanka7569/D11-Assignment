@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Day11 Assignment\Day11 Assignment\bin\Debug\Day11 Assignment.exe.config
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Day11 Assignment\Day11 Assignment\bin\Debug\Day11 Assignment.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Day11 Assignment\Day11 Assignment\bin\Debug\Day11 Assignment.pdb
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Day11 Assignment\Day11 Assignment\obj\Debug\Day11 Assignment.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Day11 Assignment\Day11 Assignment\obj\Debug\Day11 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Day11 Assignment\Day11 Assignment\obj\Debug\Day11 Assignment.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Day11 Assignment\Day11 Assignment\obj\Debug\Day11 Assignment.pdb
